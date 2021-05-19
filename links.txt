@@ -1,0 +1,3 @@
+website : https://ratnaraj-jain.github.io/webdevcourse/
+cd C:\Users\t-ratjain\webdevcourse
+browser-sync start --server --directory --files "*" 
